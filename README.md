@@ -1,4 +1,10 @@
-# portfolio-react
+# Webgame
+
+This is a side-project just for fun.
+
+## Backend
+
+My project "Webgame-SQL-API" is the backend for this application.
 
 ## Commit message convention:
 
